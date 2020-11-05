@@ -1,0 +1,3 @@
+# CS3503 Semester Project
+
+Computer Org and Architecture Lab Project. The goal of this project is to create a programmable RC Car capable of communicating with an Android application via Bluetooth for remote control. There is the option of also controlling the Arduino powered RC Car via Joystick Module v1.1. The Android application used in this demo, Arduino Bluetooth RC Car, can be downloaded from the play store.   
